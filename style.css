@@ -80,7 +80,7 @@ ul{
     border: 0.5px solid var(--secondary-text-color);
     border-radius: 6px;
     font-weight: 700;
-    margin-top: 30px;
+    margin-top: 0px;
     color: var(--primary-text-color);
     padding: 12px 24px;
     transition: 0.2s ease-out;

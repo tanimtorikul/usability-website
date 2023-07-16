@@ -68,6 +68,12 @@
     .link-column{
         align-items: stretch;
     }
+    .logos{
+        flex-direction: column;
+    }
+    .features-heading-text{
+        margin-top: 0px;
+    }
     
 }
 @media screen and (max-width:480px) {
@@ -89,7 +95,17 @@
     .examples-card{
         min-width: 100%;
     }
+    .cta-section{
+        padding-top:0px;
+    }
     .cta-section-container{
         text-align: center;
+    } 
+    .logos{
+        flex-direction: column;
     }
+    .features-heading-text{
+        margin-top: 0px;
+    }
+
 }
